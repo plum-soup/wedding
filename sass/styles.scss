@@ -320,7 +320,7 @@ header {
     height: 64px;
   }
   ul.primary-nav {
-    margin: 0 0 0 75px;
+    margin: 0 0 0 64px;
     padding: 0;
 
     li {
@@ -340,6 +340,9 @@ header {
     }
   }
   ul.member-actions {
+    margin: 0;
+    top: 60px;
+
     li {
       display: inline;
 
